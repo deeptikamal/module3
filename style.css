@@ -85,7 +85,7 @@ body{
 /************ Large Devices only **********/
 @media (min-width: 1200px) {
     #logo-img{
-    	background: url('logo1.jpg') no repeat ;
+    	background: url('./logo1.jpg') no repeat ;
     	width: 100px;
     	height: 100px;
     	margin: 5px 5px 5px 0;
